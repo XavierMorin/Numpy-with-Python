@@ -1,2 +1,2 @@
 # Numpy-with-Python
-Implementtation of some Numpy functions in Python.
+Implementation of some Numpy functions in Python.
